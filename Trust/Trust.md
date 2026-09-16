@@ -15,7 +15,7 @@
 ```bash
 nmap -sV 172.17.0.2
 ```
-<!-- cap1 -->
+![nmap](screenshots/nmap-scan.png)
 
 | Puerto | Servicio |
 | ------ | -------- |
